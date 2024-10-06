@@ -16,7 +16,7 @@ h1{
     top: 10px;
     text-align: center;
     color: rgb(92, 0, 145);
-    text-shadow: 0 0 5px #FFF, 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #49ff18, 0 0 20px #49FF18, 0 0 25px #49FF18, 0 0 30px #49FF18, 0 0 35px #49ff18
+    text-shadow: 0 0 5px #FFF, 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #49ff18, 0 0 20px #49FF18, 0 0 25px #49FF18, 0 0 30px #49FF18, 0 0 35px #49ff18;
 }
 
 h2{
@@ -28,5 +28,5 @@ h2{
     top: 80%;
     text-align: center;
     color: rgb(0, 111, 0);
-    text-shadow: 0 0 5px #FFF, 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #49ff18, 0 0 20px #49FF18, 0 0 25px #49FF18, 0 0 30px #49FF18, 0 0 35px #49ff18
+    text-shadow: 0 0 5px #FFF, 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #49ff18, 0 0 20px #49FF18, 0 0 25px #49FF18, 0 0 30px #49FF18, 0 0 35px #49ff18;
 }
